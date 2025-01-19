@@ -2,8 +2,10 @@
 
 ### WordPress Usage & Architecture
 
-Brief description of understanding. Use any combination of markdown techniques. Should be more than 2 sentences.
+1. Wordpress uses PHP, MySQL, HTML, CSS, and JS.
+2. They also have themes, plugings, and REST API.
 
 ### WordPress Site Setup
 
-Brief description of understanding. Use any combination of markdown techniques. Should be more than 2 sentences.
+- You can uses the application Local to view the database, website, and open visual studio code.
+- In the wordpress site dashboard, you go down to post and click the button add new post to make a new post using wordpress.
